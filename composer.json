@@ -16,7 +16,7 @@
   "license": "MIT",
   "homepage": "https://github.com/peter58228/laravel-vue-semantic-ui",
   "require": {
-    "php": "^7.1",
+    "php": ">=7.0",
     "laravel/framework": "^5.5"
   },
   "autoload": {
