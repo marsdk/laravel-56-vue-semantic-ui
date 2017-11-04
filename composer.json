@@ -1,0 +1,29 @@
+{
+  "name": "peter58228/laravel-vue-semantic-ui",
+  "description": "This is a Maxlab/laravel-vue-semantic-ui clone added support for Laravel 5.5.*",
+  "keywords": [
+    "vue-laravel",
+    "laravel-starter-semantic-ui",
+    "laravel-vue-semantic-ui",
+    "laravel",
+    "laravel-rad",
+    "laravel5",
+    "laravel-edition",
+    "semantic-ui",
+    "laravel-rad"
+  ],
+  "type": "project",
+  "license": "MIT",
+  "homepage": "https://github.com/peter58228/laravel-vue-semantic-ui",
+  "require": {
+    "php": "^7.1",
+    "laravel/framework": "^5.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "Peter58228\\VueSemanticUi\\": "src/"
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
