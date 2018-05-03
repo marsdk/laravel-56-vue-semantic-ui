@@ -17,7 +17,7 @@
   "homepage": "https://github.com/peter58228/laravel-vue-semantic-ui",
   "require": {
     "php": ">=7.0",
-    "laravel/framework": "^5.5"
+    "laravel/framework": "^5.6"
   },
   "autoload": {
     "psr-4": {
